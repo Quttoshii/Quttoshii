@@ -9,6 +9,7 @@ A Football player on the weekends
 - Solving puzzles
 - Playing video games
 - Reviewing memes
+- Listening to music
 
 ---
 
