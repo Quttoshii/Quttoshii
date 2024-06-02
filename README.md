@@ -43,4 +43,4 @@ A Football player on the weekends
 
 ### 📊 Stats
 
-![Quttohiis GitHub stats](https://github-readme-stats.vercel.app/api?username=quttoshii&show_icons=true&theme=dark)
+![Quttohii's GitHub stats](https://github-readme-stats.vercel.app/api?username=quttoshii&show_icons=true&theme=dark)
