@@ -1,8 +1,8 @@
-# ✨ Who am i
+# ✨ Who am I
 
 A Data Scientist during the weekdays
 <br>
-A Football player on the weekends
+A football player on the weekends
 
 # ⚡️ What i like to do to relax
 
