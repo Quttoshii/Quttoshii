@@ -43,4 +43,6 @@ A football player on the weekends
 
 ### 📊 Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quttoshii&layout=donut)](https://github.com/quttoshii/github-readme-stats)
+
 ![Quttohii's GitHub stats](https://github-readme-stats.vercel.app/api?username=quttoshii&show_icons=true&theme=dark)
