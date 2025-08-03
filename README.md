@@ -1,6 +1,6 @@
 # ✨ Who am I
 
-A Data Scientist during the weekdays
+A Backend Developer and Data Scientist during the weekdays
 <br>
 A football player on the weekends
 
